@@ -13,7 +13,7 @@
 </head>
 
 <body>
-<p>Welcome to The SE323 Software Construction and Testing</p>
+<p>Welcome to The SE234 Test flight</p>
 <div class="login" id="login">
     <form:form action="validate" method="post" commandName="loginEntity">
   <p>username 
