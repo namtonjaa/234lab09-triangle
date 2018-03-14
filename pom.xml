@@ -87,7 +87,7 @@
     </dependencies>
 
     <build>
-        <finalName>triangleSampleFalse</finalName>
+        <finalName>triangle</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
