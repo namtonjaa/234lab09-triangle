@@ -1,0 +1,5 @@
+language: node_js
+install: true
+script: true
+after_success:
+  -scp-i "C:\Users\MSI GL62M\Documents\key\se234-version-1.pem"-r html/* ubuntu@54.255.174.42:/var/www/html/
